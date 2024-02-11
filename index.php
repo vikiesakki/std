@@ -39,3 +39,4 @@ if($_POST && $_POST['student_name'] != ""){
     <input type="submit" value="login" />
 </form>
 <a href="register.php">Register</a>
+<a href="forget.php">Forget Password</a>
