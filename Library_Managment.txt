@@ -1,0 +1,46 @@
+Library Managment
+
+1. Books
+2. Students
+3. Authors
+
+books
+1. Book_id --> integer
+2. ISBN_no --> varchar
+3. author_id --> integer
+4. book_name --> varchar
+5. edition --> integer
+6. year_of_publication --> integer(4)
+7. price --> integer
+
+
+staffs
+1.id --> integer
+2.name --> varchar
+3.email --> varchar
+4.mobile --> varchar
+5.password --> varchar
+
+
+students
+1. id --> integer
+2. roll_no -->varchar
+3. name --> varchar
+5. mobile --> integer
+6. email --> varchar
+7. branch --> varchar
+8. year --> integer
+
+Authors
+1. id --> integer
+2. name --> varchar
+
+book_entries
+
+1.id --> integer
+2.student_id --> integer
+3.book_id -->integer
+4.borrow_date --> date
+5.return_date --> date
+
+
