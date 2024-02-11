@@ -40,9 +40,9 @@ if($_POST && $_POST['student_name'] != ""){
 </form>
 <a href="register.php">Register</a>
 <a href="forget.php">Forget Password</a>
-<!---
-wqdwqvdgwqvd
-wqdqvwdv
-qwdbqwdb
-
+<!--
+ehvqwgegye
+hgfytqwcduqwvduqyu2ety2fet
+jdhvqgwvdyqwd
+hqvcyqcy
 -->
